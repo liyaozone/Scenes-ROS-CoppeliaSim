@@ -54,7 +54,11 @@ $ ./coppeliaSim.sh
 
 * O coppeliaSim deve abrir, é possível criar um atalho para facilitar a inicialização. Agora é possível executar qualquer uma das cenas presentes neste repositório.
 
-![alt text](https://github.com/marco-teixeira/Scenes-ROS-CoppeliaSim/blob/master/images/img1.png)
+![](https://github.com/marco-teixeira/Scenes-ROS-CoppeliaSim/blob/master/images/img1.png)
+![alt text](https://github.com/marco-teixeira/Scenes-ROS-CoppeliaSim/blob/master/images/img2.png)
+![alt text](https://github.com/marco-teixeira/Scenes-ROS-CoppeliaSim/blob/master/images/img3.png)
+![alt text](https://github.com/marco-teixeira/Scenes-ROS-CoppeliaSim/blob/master/images/img4.png)
+
 
 
 
